@@ -1,2 +1,2 @@
-db.sqlite3
-geckodriver.log
+/superlists/db.sqlite3
+/superlists/geckodriver.log
