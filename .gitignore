@@ -1,5 +1,7 @@
 .vscode
+.venv
 __pycache__
 .pyc
 /superlists/db.sqlite3
 /superlists/geckodriver.log
+.tool-versions
